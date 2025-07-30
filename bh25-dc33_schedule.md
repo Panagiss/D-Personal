@@ -10,12 +10,14 @@
 (1=Fri, 2=Sat, 3=Sun, 4=Mon, 5=Tue, 6=Wed, 7=Thu, 8=Fri, 9=Sat, 10=Sun, 11=Mon, 12=Tue)
 
 #### Day plan
+Should check BH and DC apps for more things these days
 
 31/7 Thursday:
 - Arrival 18:35 LAS, browse around, walk the strip
 
 1/8 Friday:
 - Las Vegas Sphere 10:45 AM (Show starts at 11:30)
+- Maverick Hotels  9:00 PM (Flight starts at 9:30PM)
 
 2/8 Saturday:
 - **Adversary Tactics: Red Team Operations`
@@ -40,14 +42,15 @@
 - Night meetup at 19:00 with Defcon Subreddit @ LVCC West but not confirmed yet
 
 8/8 Friday 
-- Defcon33
+- Effectively Detecting Modern Malware with Vol3 @ LVCC - L2 - N253 / Workshop 9:00 - 13:00
+- Hacker Jeopardy 20:00 - 22:00
 
 9/8 Saturday 
-- Defcon33
+- DEFCON Pool Party @ Sahara Azul Ultra Pool - 19:30
+- Cyberdelia Rave Party - 21:00 to 02:00 in LVCC - L2 - W228
 
 10/8 Sunday 
 - Defcon33
-- Cyberdelia Rave Party - 21:00 to 02:00 in LVCC - L2 - W228
 
 11/8 Monday
 - TBD
@@ -99,24 +102,30 @@ Participants must provide their own computer with a modern web browser installed
 
 ### Interested Villages:
 
-- Adversary Village
-	- https://adversaryvillage.org/
-	- Adversary simulator and purple teaming hands-on booth
-	- Choose-your-own-Adversary-Adventure Tabletop Game
-	- Hands-on deep technical workshops
-	- Hands-on guided breach and offensive attack simulation exercises
-	- Adversary Wars CTF
+- **Adversary Village**
+	- https://adversaryvillage.org/adversary-events/DEFCON-33/
+	- Adversary attack simulation and purple teaming hands-on booth 10:00 - 18:00
+	- Adversary Wars CTF 10:00 - 18:00
+	- Hands-on workshops (multiple different per day on the village area)
+	- Talks at the DEF CON Creator Stage
+
+- **Red Team Village**
+	- https://redteamvillage.io/events/
+
+- **Blue Team Village (BTV)**
+	- https://blueteamvillage.org/btv-at-def-con-33/
+
+- Bug Bounty Village
+	- https://www.bugbountydefcon.com/agenda
+
+
+
 - AI Village
 	- https://aivillage.org/events/defcon33/
-- Red Team Village
-	- https://redteamvillage.io/events/
 - Quantum Village
 	- https://quantumvillage.org/
 - Recon Village
 	- https://www.reconvillage.org/
-- Blue Team Village (BTV)
-	- https://blueteamvillage.org/btv-at-def-con-33/
-- Bug Bounty Village
 - Maritime Hacking Village (MHV)
 
 
@@ -129,7 +138,6 @@ note that all talks can be seen online later
 
 - BitUnlocker: Leveraging Windows Recovery to Extract BitLocker Secrets
 	- Friday 10:00 LVCC - L1 - EHW3 - Track 3 - 45 mins
-
 
 - Advanced Active Directory to Entra ID lateral movement techniques
 	- Friday at 13:00 in LVCC - L1 - EHW3 - Track 3 - 45mins
